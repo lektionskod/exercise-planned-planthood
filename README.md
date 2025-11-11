@@ -10,7 +10,16 @@ Du skall efter bästa förmåga konstruera **startsidan** i följande [Figma-ski
 
 Till ert förfogande har ni lite [startkod](./startkod). 
 
-Klona hem detta repo och sätt igång!
+Börja med att strukturera upp sidan i HTML. Medans ni bygger HTML-koden så fundera gärna redan nu på hur ni strukturerar saker och ting. HTML-koden i en sektion behöver exempelvis struktureras på olika sätt beroende på om ni tänkt bygga den med flex eller grid.
+
+Fastnar ni någonstans och vill gå viare, alt. känner att ni inte behöver repetera HTML så finner ni "fuskkod" längre ner som ni kan pastea in i HTML-filen.
+
+När HTML-dokumentet är uppkodat så går ni vidare med att styla upp sidan med CSS.
+
+
+**Bonus-uppgift!**
+
+Fundera över vilka delar av sidan som är interaktiva, och lek runt lite med dem. Exempelvis genom att stoppa in någon enkel animation.
 
 ## Specifikationer
 
