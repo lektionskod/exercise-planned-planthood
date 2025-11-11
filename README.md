@@ -22,21 +22,21 @@ I mappen assets hittar ni de svg-ikoner som behövs för att återskapa Figma-sk
   ```
   <section class="header-box header-box-large">
                     <img
-                        src="./assets/plannedplanthoodlogo.svg"
+                        src=""
                         alt="Planned Planthood logotype"
                         class="header-image"
                     />
                 </section>
                 <section class="header-box header-box-brown">
                     <img
-                        src="./assets/seedling.svg"
+                        src=""
                         alt="Seedling"
                         class="header-image"
                     />
                 </section>
                 <section class="header-box header-box-green">
                     <img
-                        src="./assets/spade.svg"
+                        src=""
                         alt="Spade"
                         class="header-image"
                     />
