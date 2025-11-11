@@ -19,7 +19,7 @@ I mappen assets hittar ni de svg-ikoner som behövs för att återskapa Figma-sk
 
 <details>
   <summary>Header</summary>
-  ```
+
   <section class="header-box header-box-large">
                     <img
                         src=""
@@ -41,6 +41,6 @@ I mappen assets hittar ni de svg-ikoner som behövs för att återskapa Figma-sk
                         class="header-image"
                     />
                 </section>
-  ```
+
 
 </details>
