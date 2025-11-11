@@ -6,7 +6,11 @@ Kunden är ett kollektiv som har en stor gemensam kolonilott på innergården oc
 
 ## Instruktioner
 
-Du skall efter bästa förmåga konstruera **startsidan** i följande [Figma-skiss](https://www.figma.com/file/Hbrk29Q2rVzXiXcFWdTXDA/planned-planthood?type=design&node-id=0%3A1&mode=design&t=9CHtB0GGoxLhWLYf-1) i HTML och CSS. Till ert förfogande har ni lite [startkod](./startkod). Klona hem detta repo och sätt igång!
+Du skall efter bästa förmåga konstruera **startsidan** i följande [Figma-skiss](https://www.figma.com/file/Hbrk29Q2rVzXiXcFWdTXDA/planned-planthood?type=design&node-id=0%3A1&mode=design&t=9CHtB0GGoxLhWLYf-1) i HTML och CSS. 
+
+Till ert förfogande har ni lite [startkod](./startkod). 
+
+Klona hem detta repo och sätt igång!
 
 ## Specifikationer
 
