@@ -128,7 +128,7 @@ Nedan finner ni dropdowns där jag gömt mina lösningsförslag för html-koden.
 </details>
 
 <details>
-  <summary>Klicka för att visa koden</summary>
+  <summary>Planerade planteringar</summary>
 
   <pre><code class="language-html">
   &lt;!-- Planned plants section --&gt;
@@ -242,7 +242,7 @@ Nedan finner ni dropdowns där jag gömt mina lösningsförslag för html-koden.
 
 
 <details>
-  <summary>Klicka för att visa koden</summary>
+  <summary>Våra tidigare odlingar</summary>
 
   <pre><code class="language-html">
   &lt;!-- Info Section "Våra tidigare odlingar" --&gt;
@@ -276,7 +276,7 @@ Nedan finner ni dropdowns där jag gömt mina lösningsförslag för html-koden.
 
 
 <details>
-  <summary>Klicka för att visa koden</summary>
+  <summary>Footer</summary>
 
   <pre><code class="language-html">
   &lt;footer class="footer"&gt;
