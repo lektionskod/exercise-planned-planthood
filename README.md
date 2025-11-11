@@ -16,27 +16,31 @@ Du skall efter bästa förmåga konstruera **startsidan** i följande [Figma-ski
 
 I mappen assets hittar ni de svg-ikoner som behövs för att återskapa Figma-skissen, och dessa får ni använda hur mycket ni vill. Bakgrundsbilderna däremot är "snodda" från Unsplash, vilket innebär att man i ett riktigt live-projekt som publiceras publikt måste credda fotografen. Detta är ingenting ni behöver bry er om i denna uppgift eftersom att lägga upp sin kod på Github för skolprojekt inte riktigt räknas, men det kan vara bra att ha det i åtanke framöver. Länkar till bilderna hittar ni i kommentarerna till varje bild i Figma-skissen.
 
+<details>
+  <summary>Klicka för att visa koden</summary>
 
-```
-<section class="header-box header-box-large">
-                    <img
-                        src="./assets/plannedplanthoodlogo.svg"
-                        alt="Planned Planthood logotype"
-                        class="header-image"
-                    />
-                </section>
-                <section class="header-box header-box-brown">
-                    <img
-                        src="./assets/seedling.svg"
-                        alt="Seedling"
-                        class="header-image"
-                    />
-                </section>
-                <section class="header-box header-box-green">
-                    <img
-                        src="./assets/spade.svg"
-                        alt="Spade"
-                        class="header-image"
-                    />
-                </section>
-```
+  <pre><code>
+  &lt;section class="header-box header-box-large"&gt;
+      &lt;img
+          src="./assets/plannedplanthoodlogo.svg"
+          alt="Planned Planthood logotype"
+          class="header-image"
+      /&gt;
+  &lt;/section&gt;
+  &lt;section class="header-box header-box-brown"&gt;
+      &lt;img
+          src="./assets/seedling.svg"
+          alt="Seedling"
+          class="header-image"
+      /&gt;
+  &lt;/section&gt;
+  &lt;section class="header-box header-box-green"&gt;
+      &lt;img
+          src="./assets/spade.svg"
+          alt="Spade"
+          class="header-image"
+      /&gt;
+  &lt;/section&gt;
+  </code></pre>
+
+</details>
